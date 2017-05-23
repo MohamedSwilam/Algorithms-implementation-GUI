@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+c:\users\moham\onedrive\documents\visual studio 2015\projects\sorting animation2\sorting animation2\myform.h(2390): warning C4715: 'Sorting_Animation2::MyForm::GetnumberSelection': not all control paths return a value
+  Sorting Animation2.vcxproj -> C:\Users\moham\OneDrive\Documents\Visual Studio 2015\Projects\Sorting Animation2\Debug\Sorting Animation2.exe
+  Sorting Animation2.vcxproj -> C:\Users\moham\OneDrive\Documents\Visual Studio 2015\Projects\Sorting Animation2\Debug\Sorting Animation2.pdb (Full PDB)
